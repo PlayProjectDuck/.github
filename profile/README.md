@@ -1,7 +1,7 @@
 # Welcome to the Project Duck Github!
 https://playprojectduck.com
 
-# Usefull links for the [Project Duck Repository](https://github.com/PlayProjectDuck/projectduck)
+# Useful links for the [Project Duck Repository](https://github.com/PlayProjectDuck/projectduck)
 - **Issues**: https://github.com/PlayProjectDuck/ProjectDuck/issues
 - **Project Board** (And also the roadmap): https://github.com/orgs/PlayProjectDuck/projects/3
 - **Pull Requests**: https://github.com/PlayProjectDuck/ProjectDuck/pulls
